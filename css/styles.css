@@ -1,0 +1,54 @@
+body{
+   background-color: #f8f8f8;
+
+}
+/* navbar-brand */
+
+
+.navbar {
+  padding: 0 7%;
+}
+.nav-item {
+  padding: 0 7px;
+}
+
+ .nav-link {
+  font-size: 1.2rem;
+  font-family: "Raleway";
+  font-weight: 500;
+}
+.logo{
+  width: 20px;
+ height: 20px;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: #fff;
+}
+.container-fluid{
+  display: inline-block;
+  width: 300px;
+  border-radius: 2px;
+  border: solid 0.5px #c9c9c9;
+  background-color: #ffffff;
+  margin: 0 0 2% 7%;
+}
+
+h6{
+  display: inline-block;
+}
+.clear{
+  margin-left: 150px;
+  color: blue;
+}
+span{
+  color:#949494;
+}
+label{
+  margin-left: 10px;
+}
+.io{
+  margin-left: 7%;
+}
+.my-footer{
+  background-color: #e1e1e1;
+}
